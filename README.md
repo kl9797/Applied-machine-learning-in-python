@@ -1,2 +1,2 @@
-# Applied-machine-learning-in-python
-Assignments and quizzes 
+# Machine learning in Bioinformatics
+Assignments and projects
